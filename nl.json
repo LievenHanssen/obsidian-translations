@@ -32,10 +32,10 @@
 			"option-vim-key-bindings-description": "Let you use Vim key bindings in the source editor."
 		},
 		"file": {
-			"name": "File",
-			"option-confirm-file-deletion": "Confirm file deletion",
-			"option-confirm-file-deletion-description": "Whether you want to get prompted to confirm file deletion.",
-			"option-delete-destination": "Deleted files",
+			"name": "Bestand",
+			"option-confirm-file-deletion": "Bevestig verwijderen van bestand",
+			"option-confirm-file-deletion-description": "Je wordt gewaarschuwd en gevraagd om bevestiging bij het verwijderen van een bestand.",
+			"option-delete-destination": "Verwijderde bestanden",
 			"option-delete-destination-description": "What to do with files after you delete them.",
 			"option-choice-system-trash": "Move to system trash",
 			"option-choice-vault-trash": "Move to Obsidian trash (.trash folder)",
